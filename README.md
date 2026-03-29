@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 BTech CSE @ LPU (2028)
-- 💻 Passionate about Software Development & AI/ML
+- 💻 Passionate about Software Development & Data Science
 - 🌱 Currently learning: DSA + Web Development
 - 🎯 Goal: Crack a top MNC job
 - ⚡ Fun fact: I love gaming & tech
@@ -14,13 +14,13 @@
 
 ## 🛠️ Tech Stack
 ### Languages
-- 💻 C, C++, Java, Python
+- 💻 C, C++, Java, Python , Dsa
 
 ### Web Development
 - 🌐 HTML, CSS, React
 
 ### Tools
-- 🔧 Git, GitHub, VS Code
+- 🔧 Git, GitHub, VS Code , Leetcode , GFG
 
 ---
 
