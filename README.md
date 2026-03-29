@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anant</h1>
-<h3 align="center">BTech CSE Student | Future Software Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">BTech CSE Student | Future Software Engineer </h3>
 
 ---
 
