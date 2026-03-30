@@ -20,7 +20,7 @@
 - 🌐 HTML, CSS, React
 
 ### Tools
-- 🔧 Git, GitHub, VS Code , Leetcode , GFG
+- 🔧 Git, GitHub, VS Code , visual studio 2026
 
 ---
 
