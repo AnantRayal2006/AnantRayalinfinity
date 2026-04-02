@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantRayalInfinity&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=--Anant-Rayal--&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## 🔥 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantRayalInfinity&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=--Anant-Rayal--&layout=compact&theme=tokyonight" />
 </p>
 
 ---
