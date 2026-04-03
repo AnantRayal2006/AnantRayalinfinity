@@ -25,8 +25,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantRayal2006&show_icons=true&theme=tokyonight" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80"/>
 </p>
 
 <p align="center">
