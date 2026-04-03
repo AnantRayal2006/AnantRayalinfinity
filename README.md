@@ -41,13 +41,6 @@
 </p>
 ---
 
-## 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=--Anant-Rayal--&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/anant-rayal-22135a33a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
