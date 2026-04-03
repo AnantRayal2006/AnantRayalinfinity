@@ -27,9 +27,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="80"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="120"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=github" height="70"/>
+  <img src="https://img.icons8.com/ios-filled/100/fa314a/github.png" height="70"/>
 </p>
 
 <p align="center">
