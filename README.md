@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff6600&height=220&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,8b0000,ff6600&height=250&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code.%20Build.%20Dominate.&descAlignY=65&descAlign=50"/>
 </p>
   <!-- Text -->
   <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="40" font-family="Arial" font-weight="bold">
