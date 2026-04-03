@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=220&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Anant</h1>
-<h3 align="center">BTech CSE Student | Future Software Engineer </h3>
-
 ---
 
 ## 🚀 About Me
