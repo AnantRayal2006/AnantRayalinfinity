@@ -1,5 +1,5 @@
-<p align="center" style="margin-top:-40px;">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/demon-hand.png" width="500"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/banner.png" width="100%" />
 </p>
 
   <!-- Text -->
