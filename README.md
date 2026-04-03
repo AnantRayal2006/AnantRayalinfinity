@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff6600&height=220&section=header&text=𝓗𝓲%20👋,%20𝓘'𝓶%20𝓐𝓷𝓪𝓷𝓽&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-  <!-- Text -->
-  <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="40" font-family="Arial" font-weight="bold">
-    Hi 👋, I'm Anant
-  </text>
-
-</svg>
-
-</div>
-
 ## 🚀 About Me
 - 🎓 BTech CSE @ LPU (2028)
 - 💻 Passionate about Software Development & Data Science
