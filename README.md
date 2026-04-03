@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8b0000,ff0000&height=250&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
-
-<p align="center">
+<p align="center" style="margin-top:-40px;">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/demon-hand.png" width="500"/>
 </p>
+
   <!-- Text -->
   <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="40" font-family="Arial" font-weight="bold">
     Hi 👋, I'm Anant
