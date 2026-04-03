@@ -1,6 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=220&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
+
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#b30000"/>
+
+  <!-- Dripping effect -->
+  <g fill="#8b0000">
+    <path>
+      <animate attributeName="d" dur="3s" repeatCount="indefinite"
+        values="
+        M0,0 L800,0 L800,60 
+        C750,80 700,40 650,60 
+        C600,90 550,50 500,70 
+        C450,100 400,50 350,80 
+        C300,110 250,60 200,90 
+        C150,120 100,70 50,100 
+        C25,120 0,80 0,60 Z;
+
+        M0,0 L800,0 L800,60 
+        C750,100 700,60 650,90 
+        C600,120 550,70 500,100 
+        C450,130 400,80 350,110 
+        C300,140 250,90 200,120 
+        C150,150 100,100 50,130 
+        C25,150 0,100 0,60 Z;
+
+        M0,0 L800,0 L800,60 
+        C750,80 700,40 650,60 
+        C600,90 550,50 500,70 
+        C450,100 400,50 350,80 
+        C300,110 250,60 200,90 
+        C150,120 100,70 50,100 
+        C25,120 0,80 0,60 Z
+        "
+      />
+    </path>
+  </g>
+
+  <!-- Text -->
+  <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="40" font-family="Arial" font-weight="bold">
+    Hi 👋, I'm Anant
+  </text>
+
+</svg>
+
+</div>
 
 ## 🚀 About Me
 - 🎓 BTech CSE @ LPU (2028)
